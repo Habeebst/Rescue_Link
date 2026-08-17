@@ -525,7 +525,7 @@ function showRouteMap(origin, dest, opts, reqId) {
     })
     .catch(() => {
       if (reqId !== mapReqId) return;
-      // Offline or the public OSRM server is unreachable — fall back to a straight line
+      // Offline or the public OSRM server is unreachable 
       drawRoute([origin, dest], dest, opts);
     });
 }
