@@ -10,14 +10,12 @@
 - [Contact](#contact)
 
 ## Overview
-
-<!-- Add a screenshot or short screen-recording GIF of the app here before submitting, e.g.: -->
-<!-- ![RescueLink screenshot](./screenshot.png) -->
+![alt text](image.png)
 
 RescueLink is a web app that lets a bystander request the nearest available ambulance in one tap during a road accident, childbirth complication, house accident, or other emergency, and track it in real time until it arrives. On the other side, a driver console shows nearby requests ranked by distance, so a driver can accept a case and update its status — Matched, En route, Arrived, Transporting — as the trip actually happens.
 
-- **Where can I see your demo?** [Add your hosted link or a link to a screen recording here once deployed.]
-- **What was your experience?** The hardest part wasn't the visual design — it was designing for someone who's panicked, possibly injured, and has one hand free. Every screen had to work with almost no typing, and the fallback state (what happens when no ambulance is available) turned out to matter as much as the happy path.
+- **Where can I see your demo?** https://rescue-link-kappa.vercel.app/
+- **What was your experience?** The hardest part wasn't the visual design — it was designing for someone who's panicked, possibly injured. Every screen had to work with almost no typing, and the fallback state (what happens when no ambulance is available) turned out to matter as much as the happy path.
 - **What have you learned/improved?** Built the caller and driver flows as a real working app rather than a static mockup — including live maps and actual routing, not placeholder graphics — which meant thinking through real data (locations, distances, trip status) rather than just static screens.
 - **Your wisdom? :)** Design the failure states before the success states. What the app does when nothing is available, when the location is wrong, or when a request looks fake is what actually earns trust in an emergency product — the happy path is the easy part.
 
@@ -96,6 +94,6 @@ No API key or billing account is required — the map runs on Leaflet with free 
 
 ## Contact
 
-- Website: [your-website.com](https://your-website.com)
-- GitHub: [@your-username](https://github.com/your-username)
-- Twitter: [@your-twitter](https://twitter.com/your-username)
+- Website: [website.com](https://your-website.com)
+- GitHub: [@username](https://github.com/habeebst)
+- Twitter: [@twitter](https://twitter.com/your-username)
