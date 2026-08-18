@@ -33,10 +33,10 @@ RescueLink is a web app that lets a bystander request the nearest available ambu
 **Top Nav** — Present on every screen
 
 - Brand mark and site name on the left
-- "Home" and a second link that switches between the Patient app and the Driver console — this is how you move between the two sides of the product, not a demo toggle
+- "Home" and a second link that switches between the Caller app and the Driver console — this is how you move between the two sides of the product, not a demo toggle
 - A visible 24/7 contact pill, since that reassurance matters in an emergency product
 
-**Patient App**
+**Caller App**
 
 - *Emergency type selection* — one tap on Road Accident, House Accident, ChildBirth, Poisoning, or Others, no typing required
 - *Location confirmation* — auto-detected address with a clear confirm step before the request goes out
